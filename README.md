@@ -13,7 +13,7 @@ Username and email must be unique. In case, if username or email address contrad
 
 
 <b>Screenshots: </b>
- <img src="Home page.jpeg">
+ <img src="home page.jpeg">
   <p align="center"><b>Fig 1: Home Page</b></p><br>
 
   <img src="sign up page.jpeg">
