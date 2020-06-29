@@ -1,17 +1,28 @@
 <h1>GOOD HEALTH FRONTEND ASSIGNMENT</h1>
 
 <b>Tools:</b>
-<ul><li> HTML </li><li> CSS </li><li> JavaScript </li><li> Json</li></ul>
+<ul><li> HTML </li><li> CSS </li><li> JavaScript </li><li> Json</li> <li>Nodejs</li> <li>Materialize</li> <li>Jquery</li></ul>
+
+<b>Requirement:</b>
+<ul><li>Nodejs</li></ul>
+
+<b>To run JavaScript Linter, type in terminal</b>
+npm run pretest
+
+<b>To start Server, type</b>
+npm start
+
+and then go to <a href="localhost:1999">localhost:1999</a>
 
 <b>Functionality: </b>
-<ul><li>Add username, password, email and contact no into the table.</li><li>Password will store in encrypted form into the database. </li><li> OTP is sent to the given contact no.</li><li>OTP verification is necessary to proceed onto next page. </li></ul>
+<ul><li>Add username, password, email and mobile into the table.</li><li>Password should be of minimum length 6.</li><li>Password will store in encrypted form into the database. </li><li> OTP is sent to the registered email id.</li><li>OTP verification is necessary to proceed onto next page. </li></ul>
 
-<b>Usage Instructions: </b> <ul><li> Download the assignment from the given link. </li><li> User must have an account registered into database(json text file) to login, if not create it using registration form. </li><li> Registered user can login using contact no aur process with OTP.</li><li> After entering correct phone no  user will get  otp to their contact no.</li><li> Verify the otp and redirect to message page. </li></ul>
+<b>Usage Instructions: </b> <ul><li> Download the assignment from the given link. </li><li> User must have an account registered into database(json text file) to login, if not create it using registration form. </li><li> Registered user can login using email address and password.</li><li> After entering correct email address and password user will otp to their registered email.</li><li> Verify the otp and redirect to message page. </li></ul>
 
 <b>Description: </b>
-Username and email must be unique. In case, if username or email address contradict user will get a pop-up to either create a fresh account.  </p>
-<p>After entering correct otp user will be redirected to the welcome message page . In case, if user enter wrong otp, he/she will remain on the same page.
- User can also logout from the page. </p><br>
+Username and email must be unique. In case, if username or email address contradict user will get a pop-up to either create a fresh account or can use registered email address and password to login.  </p>
+<p>After entering correct email address and password user will be redirected to otp page where user must enter the same otp received into the registered email . In case, if user enter wrong otp, he/she will remain on the same page.</p> 
+<p>After entering correct otp user will redirect to the message page where username and user email address will be displayed. User can also logout from the page. </p><br>
 
 
 <b>Screenshots: </b>
