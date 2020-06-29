@@ -13,12 +13,12 @@ Username and email must be unique. In case, if username or email address contrad
 
 
 <b>Screenshots: </b>
-  <img src="https://user-images.githubusercontent.com/48478625/85928902-480ff300-b8ce-11ea-817a-240b990c05ff.png">
-  <p align="center"><b>Fig 1: Registration</b></p><br>
+  <img src="sign up page.jpeg">
+  <p align="center"><b>Fig 1: Sign Up Page</b></p><br>
 
-<img src="https://user-images.githubusercontent.com/48478625/85928941-8c9b8e80-b8ce-11ea-9fc1-e953c95ff556.png">
-<p align="center"><b>Fig 2: Login form</b></p><br>
-<img src="https://user-images.githubusercontent.com/48478625/85929037-0a5f9a00-b8cf-11ea-90d5-b5fdab0a4ee9.png">
-<p align="center"><b>Fig 3: OTP form</b></p><br>
-<img src="https://user-images.githubusercontent.com/48478625/85928993-ccfb0c80-b8ce-11ea-9309-febbb75831ee.png">
+<img src="login page.jpeg">
+<p align="center"><b>Fig 2: Login Page</b></p><br>
+<img src="otp varification.jpeg">
+<p align="center"><b>Fig 3: OTP Varification Page</b></p><br>
+<img src="welcome message page.jpeg">
 <p align="center"><b>Fig 4: Messgae</b></p>
