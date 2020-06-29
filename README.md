@@ -30,6 +30,7 @@ and then go to <a href="localhost:1999"><b>localhost:1999</b></a>
 
 <b>Description: </b>
 Username and email must be unique. In case, if username or email address contradict user will get a pop-up to either create a fresh account or can use registered email address.</p>
+<p> If the contact no. is not present in database, otp will not be send. Than first you have to do sign up.<p>
 <p>After entering correct email address and password user will be redirected to otp page where user must enter the same otp received on the contact no. In case, if user enter wrong otp, he/she will remain on the same page.</p> 
 <p>After entering correct otp user will redirect to the message page . User can also logout from the page. </p><br>
 
