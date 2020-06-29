@@ -48,3 +48,7 @@ Username and email must be unique. In case, if username or email address contrad
 <p align="center"><b>Fig 4: OTP Varification Page</b></p><br>
 <img src="welcome message page.jpeg">
 <p align="center"><b>Fig 5: Welcome Message Page</b></p>
+
+<img src="otp message on phone.jpeg">
+<p align="center"><b>Fig 6: OTP Message recived on Contact no.</b></p>
+
