@@ -13,12 +13,15 @@ Username and email must be unique. In case, if username or email address contrad
 
 
 <b>Screenshots: </b>
+ <img src="Home page.jpeg">
+  <p align="center"><b>Fig 1: Home Page</b></p><br>
+
   <img src="sign up page.jpeg">
-  <p align="center"><b>Fig 1: Sign Up Page</b></p><br>
+  <p align="center"><b>Fig 2: Sign Up Page</b></p><br>
 
 <img src="login page.jpeg">
-<p align="center"><b>Fig 2: Login Page</b></p><br>
+<p align="center"><b>Fig 3: Login Page</b></p><br>
 <img src="otp varification.jpeg">
-<p align="center"><b>Fig 3: OTP Varification Page</b></p><br>
+<p align="center"><b>Fig 4: OTP Varification Page</b></p><br>
 <img src="welcome message page.jpeg">
-<p align="center"><b>Fig 4: Messgae</b></p>
+<p align="center"><b>Fig 5: Welcome Message Page</b></p>
