@@ -7,12 +7,12 @@
 <ul><li>Nodejs</li></ul>
 
 <b>To run JavaScript Linter, type in terminal</b>
-npm run pretest
+# npm run pretest
 
 <b>To start Server, type</b>
-npm start
+# npm start
 
-and then go to <a href="localhost:1999">localhost:1999</a>
+and then go to <a href="localhost:1999"><b>localhost:1999</b></a>
 
 <b>Functionality: </b>
 <ul><li>Add username, password, email and mobile into the table.</li><li>Password should be of minimum length 6.</li><li>Password will store in encrypted form into the database. </li><li> OTP is sent to the registered email id.</li><li>OTP verification is necessary to proceed onto next page. </li></ul>
