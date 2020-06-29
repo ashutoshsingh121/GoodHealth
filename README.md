@@ -1,10 +1,19 @@
 <h1>GOOD HEALTH FRONTEND ASSIGNMENT</h1>
 
 <b>Tools:</b>
-<ul><li> HTML </li><li> CSS </li><li> JavaScript </li><li> Json</li> <li>Nodejs</li> <li>Materialize</li> <li>Jquery</li></ul>
+<ul><li> HTML </li><li> CSS </li><li> JavaScript </li><li> Json</li> <li>Nodejs</li> <li>Materialize</li> <li>Jquery</li> <li>Twilio Api</li></ul>
 
 <b>Requirement:</b>
-<ul><li>Nodejs</li></ul>
+<ol>
+ <li>Nodejs</li>
+ <li>Twilio Account</li>
+ <ol>
+  <li>serviceID</li>
+  <li>accountSID</li>
+  <li>authToken</li>
+ </ol>
+</ol>
+and then put these key into <b>config.js</b>
 
 <b>To run JavaScript Linter, type in terminal</b>
 # npm run pretest
